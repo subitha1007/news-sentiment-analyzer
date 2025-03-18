@@ -1,0 +1,8 @@
+streamlit
+requests
+nltk
+matplotlib
+gtts
+beautifulsoup4
+scikit-learn
+pandas
