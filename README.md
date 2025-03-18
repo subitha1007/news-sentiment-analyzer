@@ -32,8 +32,8 @@ This project is a **News Sentiment Analyzer** that extracts recent news articles
 ---
 
 ##  **Installation & Running Locally**  
- **1. Clone the Repository**  
-
+### 1️⃣ Clone the Repository  
+```sh
 git clone https://huggingface.co/spaces/SubithaM/news-sentiment-analyzer
 cd news-sentiment-analyzer
 
@@ -60,7 +60,7 @@ cd news-sentiment-analyzer
 ## Contact Information
 - Developer: Subitha
 - Email: subithaswetha@gmail.com
-- LinkedIn:https://www.linkedin.com/in/subitha-m-39859a1b8/
+- LinkedIn: Subitha M
 
  Hope you enjoy using the News Sentiment Analyzer!
 ---
