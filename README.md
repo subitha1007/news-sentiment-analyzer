@@ -18,7 +18,7 @@ This project is a **News Sentiment Analyzer** that extracts recent news articles
 3️⃣ View **Sentiment Analysis Results**  
 4️⃣ Listen to **Hindi Audio Summary**  
 
-👉 **Try it here**: [Hugging Face Deployment Link](https://huggingface.co/spaces/SubithaM/news-sentiment-analyzer)  
+👉 **Try it here**: [News Sentiment Analyzer on Hugging Face](https://huggingface.co/spaces/SubithaM/news-sentiment-analyzer)
 
 ---
 
