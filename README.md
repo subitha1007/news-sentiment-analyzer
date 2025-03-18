@@ -37,12 +37,12 @@ This project is a **News Sentiment Analyzer** that extracts recent news articles
 git clone https://huggingface.co/spaces/SubithaM/news-sentiment-analyzer
 cd news-sentiment-analyzer
 
-2. Install Dependencies
-    pip install -r requirements.txt
+**2. Install Dependencies**
+   - pip install -r requirements.txt
    
-4. Run the Application
-    streamlit run app.py
-
+**4. Run the Application**
+   - streamlit run app.py
+---
 
 ## Example Sentiment Analysis Results
 **Company: Google**
@@ -50,7 +50,7 @@ cd news-sentiment-analyzer
 - Negative Articles: 4
 - Neutral Articles: 3
 
-  Hindi Audio Summary Generated Successfully!
+  **Hindi Audio Summary Generated Successfully!**
 
 ## Future Improvements
 - Add multi-language support for audio summaries
